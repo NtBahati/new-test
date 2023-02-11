@@ -10,4 +10,4 @@ II-You have been also tasked to create a local Git repository for a project call
 2-2. Create a Git repository in the selected folder
 
 
-III-In your Mandatory folder create scripts files that can
+III-In your Mandatory folder create scripts files that can.
